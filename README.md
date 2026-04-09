@@ -1,10 +1,5 @@
-# Closure
-
-Status: In development
-Assign: Sugiarto Wibowo, clawchuck s
-Team: Documentation
-
 # Sally: Wearable Device
+
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -26,8 +21,19 @@ Our goal is to provide a seamless "second brain" that lives as your necklace. By
 
 This repo contains 3D design for the closure and can be opened using Solidworks minimum version 2024. The **.stl** files can also be used for printing on 3D Printer.
 
-# Acknowledgement
+## 👥 Project Team
 
-- Prof. Nakul Garg as our supervisor
-- Prof. Joe Young as Capstone Project management
-- Electrical and Computer Engineering in Rice University
+- **Sugiarto Wibowo** ([sw183@rice.edu](mailto:sw183@rice.edu))* — *Lead Developer*
+- **Jeeven Balasubramaniam** ([jb310@rice.edu](mailto:jb310@rice.edu))** — *Collaborator*
+
+### 🎓 Supervision
+
+- **Nakul Garg** ([ng83@rice.edu](mailto:ng83@rice.edu))* — *Project Supervisor*
+
+**Affiliation:** *Rice University, Houston, Texas, USA*
+
+> <small>* Electrical and Computer Engineering Department</small>
+> 
+> 
+> <small>** Data Science Department</small>
+>
